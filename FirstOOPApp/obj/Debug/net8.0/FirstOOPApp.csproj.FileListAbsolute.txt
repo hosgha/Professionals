@@ -1,0 +1,14 @@
+D:\Professionals\Session9\Session9\FirstOOPApp\bin\Debug\net8.0\FirstOOPApp.exe
+D:\Professionals\Session9\Session9\FirstOOPApp\bin\Debug\net8.0\FirstOOPApp.deps.json
+D:\Professionals\Session9\Session9\FirstOOPApp\bin\Debug\net8.0\FirstOOPApp.runtimeconfig.json
+D:\Professionals\Session9\Session9\FirstOOPApp\bin\Debug\net8.0\FirstOOPApp.dll
+D:\Professionals\Session9\Session9\FirstOOPApp\bin\Debug\net8.0\FirstOOPApp.pdb
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.AssemblyInfoInputs.cache
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.AssemblyInfo.cs
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.dll
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\refint\FirstOOPApp.dll
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.pdb
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\FirstOOPApp.genruntimeconfig.cache
+D:\Professionals\Session9\Session9\FirstOOPApp\obj\Debug\net8.0\ref\FirstOOPApp.dll
