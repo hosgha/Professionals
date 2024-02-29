@@ -1,0 +1,14 @@
+D:\Professionals\Session7\LearnMethodApp\bin\Debug\net8.0\LearnMethodApp.exe
+D:\Professionals\Session7\LearnMethodApp\bin\Debug\net8.0\LearnMethodApp.deps.json
+D:\Professionals\Session7\LearnMethodApp\bin\Debug\net8.0\LearnMethodApp.runtimeconfig.json
+D:\Professionals\Session7\LearnMethodApp\bin\Debug\net8.0\LearnMethodApp.dll
+D:\Professionals\Session7\LearnMethodApp\bin\Debug\net8.0\LearnMethodApp.pdb
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.AssemblyInfoInputs.cache
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.AssemblyInfo.cs
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.dll
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\refint\LearnMethodApp.dll
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.pdb
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\LearnMethodApp.genruntimeconfig.cache
+D:\Professionals\Session7\LearnMethodApp\obj\Debug\net8.0\ref\LearnMethodApp.dll

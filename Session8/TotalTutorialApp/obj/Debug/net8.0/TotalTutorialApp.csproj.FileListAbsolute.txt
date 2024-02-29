@@ -1,0 +1,14 @@
+D:\Friends\Session8\TotalTutorialApp\bin\Debug\net8.0\TotalTutorialApp.exe
+D:\Friends\Session8\TotalTutorialApp\bin\Debug\net8.0\TotalTutorialApp.deps.json
+D:\Friends\Session8\TotalTutorialApp\bin\Debug\net8.0\TotalTutorialApp.runtimeconfig.json
+D:\Friends\Session8\TotalTutorialApp\bin\Debug\net8.0\TotalTutorialApp.dll
+D:\Friends\Session8\TotalTutorialApp\bin\Debug\net8.0\TotalTutorialApp.pdb
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.AssemblyInfoInputs.cache
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.AssemblyInfo.cs
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.csproj.CoreCompileInputs.cache
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.dll
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\refint\TotalTutorialApp.dll
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.pdb
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\TotalTutorialApp.genruntimeconfig.cache
+D:\Friends\Session8\TotalTutorialApp\obj\Debug\net8.0\ref\TotalTutorialApp.dll

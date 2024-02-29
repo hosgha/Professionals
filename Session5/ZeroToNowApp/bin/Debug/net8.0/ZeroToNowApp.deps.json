@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZeroToNowApp/1.0.0": {
+        "runtime": {
+          "ZeroToNowApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZeroToNowApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

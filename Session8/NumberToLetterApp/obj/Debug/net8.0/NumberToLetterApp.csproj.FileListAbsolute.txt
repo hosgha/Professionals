@@ -1,0 +1,14 @@
+D:\Friends\Session8\NumberToLetterApp\bin\Debug\net8.0\NumberToLetterApp.exe
+D:\Friends\Session8\NumberToLetterApp\bin\Debug\net8.0\NumberToLetterApp.deps.json
+D:\Friends\Session8\NumberToLetterApp\bin\Debug\net8.0\NumberToLetterApp.runtimeconfig.json
+D:\Friends\Session8\NumberToLetterApp\bin\Debug\net8.0\NumberToLetterApp.dll
+D:\Friends\Session8\NumberToLetterApp\bin\Debug\net8.0\NumberToLetterApp.pdb
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.AssemblyInfoInputs.cache
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.AssemblyInfo.cs
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.csproj.CoreCompileInputs.cache
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.dll
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\refint\NumberToLetterApp.dll
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.pdb
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\NumberToLetterApp.genruntimeconfig.cache
+D:\Friends\Session8\NumberToLetterApp\obj\Debug\net8.0\ref\NumberToLetterApp.dll

@@ -1,0 +1,14 @@
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.AssemblyInfoInputs.cache
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.AssemblyInfo.cs
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session7\GhasemShapeApp\bin\Debug\net8.0\GhasemShapeApp.exe
+D:\Professionals\Session7\GhasemShapeApp\bin\Debug\net8.0\GhasemShapeApp.deps.json
+D:\Professionals\Session7\GhasemShapeApp\bin\Debug\net8.0\GhasemShapeApp.runtimeconfig.json
+D:\Professionals\Session7\GhasemShapeApp\bin\Debug\net8.0\GhasemShapeApp.dll
+D:\Professionals\Session7\GhasemShapeApp\bin\Debug\net8.0\GhasemShapeApp.pdb
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.dll
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\refint\GhasemShapeApp.dll
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.pdb
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\GhasemShapeApp.genruntimeconfig.cache
+D:\Professionals\Session7\GhasemShapeApp\obj\Debug\net8.0\ref\GhasemShapeApp.dll

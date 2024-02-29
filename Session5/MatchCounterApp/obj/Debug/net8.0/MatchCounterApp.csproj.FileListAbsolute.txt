@@ -1,0 +1,14 @@
+D:\Professionals\Session5\MatchCounterApp\bin\Debug\net8.0\MatchCounterApp.exe
+D:\Professionals\Session5\MatchCounterApp\bin\Debug\net8.0\MatchCounterApp.deps.json
+D:\Professionals\Session5\MatchCounterApp\bin\Debug\net8.0\MatchCounterApp.runtimeconfig.json
+D:\Professionals\Session5\MatchCounterApp\bin\Debug\net8.0\MatchCounterApp.dll
+D:\Professionals\Session5\MatchCounterApp\bin\Debug\net8.0\MatchCounterApp.pdb
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.AssemblyInfoInputs.cache
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.AssemblyInfo.cs
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.dll
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\refint\MatchCounterApp.dll
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.pdb
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\MatchCounterApp.genruntimeconfig.cache
+D:\Professionals\Session5\MatchCounterApp\obj\Debug\net8.0\ref\MatchCounterApp.dll

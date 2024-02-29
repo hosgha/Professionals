@@ -1,0 +1,14 @@
+D:\Professionals\Session1\Session3\MaxAndMinNumber\bin\Debug\net8.0\MaxAndMinNumber.exe
+D:\Professionals\Session1\Session3\MaxAndMinNumber\bin\Debug\net8.0\MaxAndMinNumber.deps.json
+D:\Professionals\Session1\Session3\MaxAndMinNumber\bin\Debug\net8.0\MaxAndMinNumber.runtimeconfig.json
+D:\Professionals\Session1\Session3\MaxAndMinNumber\bin\Debug\net8.0\MaxAndMinNumber.dll
+D:\Professionals\Session1\Session3\MaxAndMinNumber\bin\Debug\net8.0\MaxAndMinNumber.pdb
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.AssemblyInfoInputs.cache
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.AssemblyInfo.cs
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.csproj.CoreCompileInputs.cache
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.dll
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\refint\MaxAndMinNumber.dll
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.pdb
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\MaxAndMinNumber.genruntimeconfig.cache
+D:\Professionals\Session1\Session3\MaxAndMinNumber\obj\Debug\net8.0\ref\MaxAndMinNumber.dll

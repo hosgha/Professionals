@@ -1,0 +1,14 @@
+D:\Professionals\Session1\Session3\StudentAverage\bin\Debug\net8.0\StudentAverage.exe
+D:\Professionals\Session1\Session3\StudentAverage\bin\Debug\net8.0\StudentAverage.deps.json
+D:\Professionals\Session1\Session3\StudentAverage\bin\Debug\net8.0\StudentAverage.runtimeconfig.json
+D:\Professionals\Session1\Session3\StudentAverage\bin\Debug\net8.0\StudentAverage.dll
+D:\Professionals\Session1\Session3\StudentAverage\bin\Debug\net8.0\StudentAverage.pdb
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.AssemblyInfoInputs.cache
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.AssemblyInfo.cs
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.csproj.CoreCompileInputs.cache
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.dll
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\refint\StudentAverage.dll
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.pdb
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\StudentAverage.genruntimeconfig.cache
+D:\Professionals\Session1\Session3\StudentAverage\obj\Debug\net8.0\ref\StudentAverage.dll

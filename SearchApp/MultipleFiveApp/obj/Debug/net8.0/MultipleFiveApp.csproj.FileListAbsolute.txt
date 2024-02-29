@@ -1,0 +1,14 @@
+D:\Professionals\SearchApp\MultipleFiveApp\bin\Debug\net8.0\MultipleFiveApp.exe
+D:\Professionals\SearchApp\MultipleFiveApp\bin\Debug\net8.0\MultipleFiveApp.deps.json
+D:\Professionals\SearchApp\MultipleFiveApp\bin\Debug\net8.0\MultipleFiveApp.runtimeconfig.json
+D:\Professionals\SearchApp\MultipleFiveApp\bin\Debug\net8.0\MultipleFiveApp.dll
+D:\Professionals\SearchApp\MultipleFiveApp\bin\Debug\net8.0\MultipleFiveApp.pdb
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.AssemblyInfoInputs.cache
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.AssemblyInfo.cs
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.csproj.CoreCompileInputs.cache
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.dll
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\refint\MultipleFiveApp.dll
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.pdb
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\MultipleFiveApp.genruntimeconfig.cache
+D:\Professionals\SearchApp\MultipleFiveApp\obj\Debug\net8.0\ref\MultipleFiveApp.dll

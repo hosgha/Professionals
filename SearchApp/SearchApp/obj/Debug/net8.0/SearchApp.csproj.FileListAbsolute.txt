@@ -1,0 +1,14 @@
+D:\Professionals\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.exe
+D:\Professionals\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.deps.json
+D:\Professionals\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.runtimeconfig.json
+D:\Professionals\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.dll
+D:\Professionals\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.pdb
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.AssemblyInfoInputs.cache
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.AssemblyInfo.cs
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.csproj.CoreCompileInputs.cache
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.dll
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\refint\SearchApp.dll
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.pdb
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.genruntimeconfig.cache
+D:\Professionals\SearchApp\SearchApp\obj\Debug\net8.0\ref\SearchApp.dll

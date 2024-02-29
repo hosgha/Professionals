@@ -1,0 +1,14 @@
+D:\Professionals\Session7\MethodApp\bin\Debug\net8.0\MethodApp.exe
+D:\Professionals\Session7\MethodApp\bin\Debug\net8.0\MethodApp.deps.json
+D:\Professionals\Session7\MethodApp\bin\Debug\net8.0\MethodApp.runtimeconfig.json
+D:\Professionals\Session7\MethodApp\bin\Debug\net8.0\MethodApp.dll
+D:\Professionals\Session7\MethodApp\bin\Debug\net8.0\MethodApp.pdb
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.AssemblyInfoInputs.cache
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.AssemblyInfo.cs
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.dll
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\refint\MethodApp.dll
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.pdb
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\MethodApp.genruntimeconfig.cache
+D:\Professionals\Session7\MethodApp\obj\Debug\net8.0\ref\MethodApp.dll

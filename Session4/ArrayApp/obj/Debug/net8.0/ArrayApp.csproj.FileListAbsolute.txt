@@ -1,0 +1,14 @@
+D:\Professionals\Session4\ArrayApp\bin\Debug\net8.0\ArrayApp.exe
+D:\Professionals\Session4\ArrayApp\bin\Debug\net8.0\ArrayApp.deps.json
+D:\Professionals\Session4\ArrayApp\bin\Debug\net8.0\ArrayApp.runtimeconfig.json
+D:\Professionals\Session4\ArrayApp\bin\Debug\net8.0\ArrayApp.dll
+D:\Professionals\Session4\ArrayApp\bin\Debug\net8.0\ArrayApp.pdb
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.AssemblyInfoInputs.cache
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.AssemblyInfo.cs
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.dll
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\refint\ArrayApp.dll
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.pdb
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ArrayApp.genruntimeconfig.cache
+D:\Professionals\Session4\ArrayApp\obj\Debug\net8.0\ref\ArrayApp.dll

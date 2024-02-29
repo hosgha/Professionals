@@ -1,0 +1,14 @@
+D:\Professionals\Session5\ReverseArray\bin\Debug\net8.0\ReverseArray.exe
+D:\Professionals\Session5\ReverseArray\bin\Debug\net8.0\ReverseArray.deps.json
+D:\Professionals\Session5\ReverseArray\bin\Debug\net8.0\ReverseArray.runtimeconfig.json
+D:\Professionals\Session5\ReverseArray\bin\Debug\net8.0\ReverseArray.dll
+D:\Professionals\Session5\ReverseArray\bin\Debug\net8.0\ReverseArray.pdb
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.AssemblyInfoInputs.cache
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.AssemblyInfo.cs
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.dll
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\refint\ReverseArray.dll
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.pdb
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ReverseArray.genruntimeconfig.cache
+D:\Professionals\Session5\ReverseArray\obj\Debug\net8.0\ref\ReverseArray.dll

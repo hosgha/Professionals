@@ -1,0 +1,14 @@
+D:\Professionals\SearchApp\biger 10\bin\Debug\net8.0\biger 10.exe
+D:\Professionals\SearchApp\biger 10\bin\Debug\net8.0\biger 10.deps.json
+D:\Professionals\SearchApp\biger 10\bin\Debug\net8.0\biger 10.runtimeconfig.json
+D:\Professionals\SearchApp\biger 10\bin\Debug\net8.0\biger 10.dll
+D:\Professionals\SearchApp\biger 10\bin\Debug\net8.0\biger 10.pdb
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.AssemblyInfoInputs.cache
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.AssemblyInfo.cs
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.csproj.CoreCompileInputs.cache
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.dll
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\refint\biger 10.dll
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.pdb
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\biger 10.genruntimeconfig.cache
+D:\Professionals\SearchApp\biger 10\obj\Debug\net8.0\ref\biger 10.dll

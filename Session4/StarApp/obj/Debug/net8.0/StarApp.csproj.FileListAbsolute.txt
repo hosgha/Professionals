@@ -1,0 +1,14 @@
+D:\Professionals\Session4\StarApp\bin\Debug\net8.0\StarApp.exe
+D:\Professionals\Session4\StarApp\bin\Debug\net8.0\StarApp.deps.json
+D:\Professionals\Session4\StarApp\bin\Debug\net8.0\StarApp.runtimeconfig.json
+D:\Professionals\Session4\StarApp\bin\Debug\net8.0\StarApp.dll
+D:\Professionals\Session4\StarApp\bin\Debug\net8.0\StarApp.pdb
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.AssemblyInfoInputs.cache
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.AssemblyInfo.cs
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.dll
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\refint\StarApp.dll
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.pdb
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\StarApp.genruntimeconfig.cache
+D:\Professionals\Session4\StarApp\obj\Debug\net8.0\ref\StarApp.dll

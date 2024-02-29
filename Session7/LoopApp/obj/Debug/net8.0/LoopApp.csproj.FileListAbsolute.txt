@@ -1,0 +1,14 @@
+D:\Professionals\Session7\LoopApp\bin\Debug\net8.0\LoopApp.exe
+D:\Professionals\Session7\LoopApp\bin\Debug\net8.0\LoopApp.deps.json
+D:\Professionals\Session7\LoopApp\bin\Debug\net8.0\LoopApp.runtimeconfig.json
+D:\Professionals\Session7\LoopApp\bin\Debug\net8.0\LoopApp.dll
+D:\Professionals\Session7\LoopApp\bin\Debug\net8.0\LoopApp.pdb
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.AssemblyInfoInputs.cache
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.AssemblyInfo.cs
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.dll
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\refint\LoopApp.dll
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.pdb
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\LoopApp.genruntimeconfig.cache
+D:\Professionals\Session7\LoopApp\obj\Debug\net8.0\ref\LoopApp.dll

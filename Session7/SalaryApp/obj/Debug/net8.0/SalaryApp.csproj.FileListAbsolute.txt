@@ -1,0 +1,14 @@
+D:\Professionals\Session7\SalaryApp\bin\Debug\net8.0\SalaryApp.exe
+D:\Professionals\Session7\SalaryApp\bin\Debug\net8.0\SalaryApp.deps.json
+D:\Professionals\Session7\SalaryApp\bin\Debug\net8.0\SalaryApp.runtimeconfig.json
+D:\Professionals\Session7\SalaryApp\bin\Debug\net8.0\SalaryApp.dll
+D:\Professionals\Session7\SalaryApp\bin\Debug\net8.0\SalaryApp.pdb
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.AssemblyInfoInputs.cache
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.AssemblyInfo.cs
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.dll
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\refint\SalaryApp.dll
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.pdb
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\SalaryApp.genruntimeconfig.cache
+D:\Professionals\Session7\SalaryApp\obj\Debug\net8.0\ref\SalaryApp.dll

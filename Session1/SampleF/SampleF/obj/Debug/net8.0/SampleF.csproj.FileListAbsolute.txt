@@ -1,0 +1,14 @@
+D:\Professionals\Session1\SampleF\SampleF\bin\Debug\net8.0\SampleF.exe
+D:\Professionals\Session1\SampleF\SampleF\bin\Debug\net8.0\SampleF.deps.json
+D:\Professionals\Session1\SampleF\SampleF\bin\Debug\net8.0\SampleF.runtimeconfig.json
+D:\Professionals\Session1\SampleF\SampleF\bin\Debug\net8.0\SampleF.dll
+D:\Professionals\Session1\SampleF\SampleF\bin\Debug\net8.0\SampleF.pdb
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.AssemblyInfoInputs.cache
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.AssemblyInfo.cs
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.csproj.CoreCompileInputs.cache
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.dll
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\refint\SampleF.dll
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.pdb
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\SampleF.genruntimeconfig.cache
+D:\Professionals\Session1\SampleF\SampleF\obj\Debug\net8.0\ref\SampleF.dll

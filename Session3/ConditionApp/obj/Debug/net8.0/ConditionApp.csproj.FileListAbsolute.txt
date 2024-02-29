@@ -1,0 +1,14 @@
+D:\Professionals\Session1\Session3\ConditionApp\bin\Debug\net8.0\ConditionApp.exe
+D:\Professionals\Session1\Session3\ConditionApp\bin\Debug\net8.0\ConditionApp.deps.json
+D:\Professionals\Session1\Session3\ConditionApp\bin\Debug\net8.0\ConditionApp.runtimeconfig.json
+D:\Professionals\Session1\Session3\ConditionApp\bin\Debug\net8.0\ConditionApp.dll
+D:\Professionals\Session1\Session3\ConditionApp\bin\Debug\net8.0\ConditionApp.pdb
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.AssemblyInfoInputs.cache
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.AssemblyInfo.cs
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.dll
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\refint\ConditionApp.dll
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.pdb
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ConditionApp.genruntimeconfig.cache
+D:\Professionals\Session1\Session3\ConditionApp\obj\Debug\net8.0\ref\ConditionApp.dll

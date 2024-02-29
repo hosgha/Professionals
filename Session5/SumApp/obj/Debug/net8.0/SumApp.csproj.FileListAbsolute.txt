@@ -1,0 +1,14 @@
+D:\Professionals\Session5\SumApp\bin\Debug\net8.0\SumApp.exe
+D:\Professionals\Session5\SumApp\bin\Debug\net8.0\SumApp.deps.json
+D:\Professionals\Session5\SumApp\bin\Debug\net8.0\SumApp.runtimeconfig.json
+D:\Professionals\Session5\SumApp\bin\Debug\net8.0\SumApp.dll
+D:\Professionals\Session5\SumApp\bin\Debug\net8.0\SumApp.pdb
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.AssemblyInfoInputs.cache
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.AssemblyInfo.cs
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.dll
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\refint\SumApp.dll
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.pdb
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\SumApp.genruntimeconfig.cache
+D:\Professionals\Session5\SumApp\obj\Debug\net8.0\ref\SumApp.dll

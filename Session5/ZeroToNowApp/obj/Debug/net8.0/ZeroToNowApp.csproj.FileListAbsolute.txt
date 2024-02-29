@@ -1,0 +1,14 @@
+D:\Professionals\Session5\ZeroToNowApp\bin\Debug\net8.0\ZeroToNowApp.exe
+D:\Professionals\Session5\ZeroToNowApp\bin\Debug\net8.0\ZeroToNowApp.deps.json
+D:\Professionals\Session5\ZeroToNowApp\bin\Debug\net8.0\ZeroToNowApp.runtimeconfig.json
+D:\Professionals\Session5\ZeroToNowApp\bin\Debug\net8.0\ZeroToNowApp.dll
+D:\Professionals\Session5\ZeroToNowApp\bin\Debug\net8.0\ZeroToNowApp.pdb
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.AssemblyInfoInputs.cache
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.AssemblyInfo.cs
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.csproj.CoreCompileInputs.cache
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.dll
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\refint\ZeroToNowApp.dll
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.pdb
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ZeroToNowApp.genruntimeconfig.cache
+D:\Professionals\Session5\ZeroToNowApp\obj\Debug\net8.0\ref\ZeroToNowApp.dll
